@@ -1,5 +1,6 @@
 # Sistema-Evento
 
+Projeto desenvolvido objetivo de estudar e praticar os conceitos de modelo de dominio e ORM utilizando Java com o framework Spring.
 
 Sistema para gerenciar as informações dos participantes das atividades de um
 evento acadêmico. As atividades deste evento podem ser, por exemplo, palestras, cursos, oficinas
